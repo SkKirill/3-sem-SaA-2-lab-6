@@ -2,8 +2,6 @@ program Laba2;
 {$APPTYPE CONSOLE}
 
 uses
-  SysUtils,
-  Windows,
   Stack;
 
 const
